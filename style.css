@@ -247,6 +247,26 @@ td, th {
     margin: 2em auto;
 }
 
+/* 
+Adaptação para tamanho de tela Mobile!
+
 @media screen and (max-width: 480px) {
-    
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video{
+        width: auto;
+    }
 }
+
+h1 {
+    text-align: center;
+}
+
+nav {
+    position: static;
+}
+
+.lista-beneficios, .img-beneficios {
+    width: 100%;
+}
+
+Falta fazer também para as páginas de Produto e Contato.
+/*

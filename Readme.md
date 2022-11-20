@@ -17,3 +17,5 @@ Branch Pg-Produtos-Final - Finalização da pagina de Produtos e criação da p�
 Branch Final-Site - Finalização da página de Contatos
 
 Branch Final-Site-Home - Melhor estilização da página Home
+
+Branch Projeto-Final - Adicionado estilização para tela mobile da página Home. Falta desenvolver para as outras páginas (Produtos e Contato).
